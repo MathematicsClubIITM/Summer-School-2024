@@ -1,5 +1,7 @@
 # Session 3 - Signal Noise, Exponential Poise & Fourier Joys
 
+This is the final session of MathLab, presented by Achintya Raghavan, Karthik Kashyap and Navin Kumar. The session covers LCCDEs, Fourier series, Fourier transforms, Noise in data and simple filters such as the Low pass filter. The session also contains implementaion of root finding techniques taught in session 1 and an implementation of a low pass filter in GNU Octave.
+
 ## Link to Session Recording:
 
 [YouTube Stream](https://www.youtube.com/live/IfxlbKdZOJI?si=-WXxD9K8vns1uW--)
