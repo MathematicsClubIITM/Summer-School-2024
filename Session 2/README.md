@@ -1,5 +1,7 @@
 # Session 2 - Numerical Navigators
 
+This is the introductory session to MathLab, presented by Aditi Vaidya and Pranjal Varshney. The session covers numerical techniques to solve ODEs and PDEs and an implementation of these techniques in GNU Octave.
+
 ## Link to YouTube Stream:
 [Click here](https://www.youtube.com/watch?v=A5nCCh7612I)
 ## Link to session PPTs:
